@@ -1,0 +1,54 @@
+body {
+    background-color:  rgb(32, 74, 109);
+}
+h1 {
+    background-color: red;
+    border-radius: 15px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: silver;
+    margin-top: 10px;
+}
+.navbar {
+    display:inline-block;
+    vertical-align: top;
+    background-color: steelblue;
+    border-radius: 15px;
+    padding: 15px;
+    color:white;
+    margin-right: 32px; 
+    margin-top: -10px;
+}
+.navlinks {
+    color: white;
+}
+.JS-basics {
+    display: inline-block;
+    max-width: 1600px;
+    background-color: rgb(8, 38, 63);
+    border-radius: 15px;
+    margin-top: -10px;
+}
+.definitions {
+    text-decoration: underline;
+    color: skyblue;
+    display: inline;
+}
+.examples {
+    color: rgb(46, 0, 73);
+    font-weight: bolder;
+    display: inline;
+}
+div h2 {
+    color: silver;
+    padding: 0 20px;
+}
+.JS-summary {
+    padding: 0 20px;
+}
+.footer{
+    background-color: gray;
+    border-radius: 15px;
+    margin-top: 10px;
+    padding: 1px 5px;
+}

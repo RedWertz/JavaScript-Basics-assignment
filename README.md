@@ -1,2 +1,1 @@
-# JavaScript Basics assignment
- JavaScript basics
+Ronald Wertz - WebFun - JavaScript Basics
